@@ -1,0 +1,6 @@
+module Pods_appetit {
+  umbrella header "Pods-appetit-umbrella.h"
+
+  export *
+  module * { export * }
+}
